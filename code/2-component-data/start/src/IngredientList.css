@@ -1,0 +1,10 @@
+.prepared {
+    text-decoration: line-through;
+}
+
+ol {
+    font-size: 0.8125em;
+}
+ol :last-child, ol :first-child {
+    color: blue; font-weight: 800;
+}
